@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #000;
+  height: 100vh;
+  padding: 20px;
+}
+
+.App-header {
+  width: 100vw;
+  display: flex;
+  padding: 20px 0px;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
